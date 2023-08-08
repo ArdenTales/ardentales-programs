@@ -1,2 +1,6 @@
 2023.08.08 19:57
-Created the changelog for this repository. Most programs included are going to be written in Python for now but as ArdenTales' skills grow, more languages are going to be included. Keep on checking this repo if you are interested in ArdenTales' aka Arkadiusz Robak's progress.
+
+Created the changelog for this repository. Most programs included 
+are going to be written in Python for now but as ArdenTales' skills grow, 
+more languages are going to be included. Keep on checking this repo if
+you are interested in ArdenTales' aka Arkadiusz Robak's progress.
